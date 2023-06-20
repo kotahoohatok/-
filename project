@@ -6,11 +6,10 @@
  </head>
  <body>
   <h1>欲しいものリスト</h1>
-  <dl>
-  <dt>ジャンル別</dt>
-  <dd>1　イヤホン</dd>
-  <dd>2　靴</dd>
-  </dl>
+  <p>写真</p>
+  <p>Technics「EAH-AZ80」</p>
+  <br>
+  <br>
 
  </body>
 </html>
